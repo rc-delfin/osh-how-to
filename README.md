@@ -9,3 +9,7 @@
 * Tap on the link in your **OSH email**
 
 ![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/osh%20email.png "OSH email")
+
+* Tap on the three vertical dots at the upper right corner of the screen
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/002.png "OSH email")
