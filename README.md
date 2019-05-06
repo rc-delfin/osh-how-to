@@ -22,3 +22,7 @@
 * Tap on **Add** in the following dialog
 
 ![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/004.png "OSH email")
+
+* A message will appear showing the operation was successful
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/005.png "OSH email")
