@@ -18,3 +18,7 @@
 * Tap on the **Add to Home screen** option
 
 ![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/003.png "OSH email")
+
+* Tap on **Add** in the following dialog
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/004.png "OSH email")
