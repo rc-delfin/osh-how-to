@@ -77,32 +77,32 @@
 
 * Open your Gmail app in your phone and find the email where your APE results are attached and open the email
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/014.png
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/014.png)
 
 * Tap on the **Google Drive icon**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/015.png
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/015.png)
 
 * Tap on **Organise**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/016.png
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/016.png)
 
 * Tap on **Back Arrow**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/017.png
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/017.png)
 
 * Tap on **Starred**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/018.png
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/018.png)
 
 * Tap on **OSH-APE**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/019.png
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/019.png)
 
 * Tap on **SELECT**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/020.png
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/020.png)
 
 * Files uploaded to **OSH-APE** folder
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/021.png
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/021.png)
