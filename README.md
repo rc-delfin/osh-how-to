@@ -36,3 +36,9 @@
 ***
 ## Uploading in your smartphone
 ***
+
+### 2 Ways to Upload in Your Smartphone
+
+* Uploading soft copies (PDFs) with and without downloading
+* Uploading hard copies (Printouts)
+
