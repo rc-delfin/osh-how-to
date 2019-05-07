@@ -55,3 +55,9 @@
 * Icon in home screen to your OSH-APE folder
 
 ![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/009.png)
+
+
+* Tap the **+ button**
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/010.png)
+
