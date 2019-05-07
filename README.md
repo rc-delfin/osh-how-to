@@ -106,3 +106,45 @@
 * Files uploaded to **OSH-APE** folder
 
 ![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/021.png)
+
+### Uploading Hard Copies
+
+* Icon in home screen to your OSH-APE folder
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/022.png)
+
+* Tap the **+ button**
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/023.png)
+
+* Tap on **Scan**
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/024.png)
+
+* Point the camera at the document you want to scan (make sure the background is darker than the document) then press the **circle button** as if taking a picture
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/025.png)
+
+* Tap on **OK**
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/026.png)
+
+* Tap on the **+** to add another page to the scanned document
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/027.png)
+
+* Point the camera at the page you want to scan and add (make sure the background is darker than the document) then press the **circle button** as if taking a picture. Do the same for additional pages.
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/028.png)
+
+* Tap on **OK**
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/029.png)
+
+* Tap on **the check** to upload the document
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/030.png)
+
+* The uploaded scanned document
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/031.png)
