@@ -10,28 +10,28 @@
 
 * Tap on the link in your **OSH email**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/osh%20email.png)
+![alt text](images/osh_email.png)
 
 * Tap on the three vertical dots at the upper right corner of the screen
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/002.png)
+![alt text](images/002.png)
 
 * Tap on the **Add to Starred** option in the menu that appears, then
 * Tap on the **Add to Home screen** option
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/003.png)
+![alt text](images/003.png)
 
 * Tap on **Add** in the following dialog
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/004.png)
+![alt text](images/004.png)
 
 * A message will appear showing the operation was successful
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/005.png)
+![alt text](images/005.png)
 
 * Icon in home screen to your OSH-APE folder
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/006.png)
+![alt text](images/006.png)
 
 ***
 ## Uploading in your smartphone
@@ -46,108 +46,108 @@
 
 * Open your Gmail app in your phone and find the email where your APE results are attached and open the email
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/007.png)
+![alt text](images/007.png)
 
 * Tap on the **Download icon** for all files you want to download
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/008.png)
+![alt text](images/008.png)
 
 * Icon in home screen to your OSH-APE folder
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/009.png)
+![alt text](images/009.png)
 
 
 * Tap the **+ button**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/010.png)
+![alt text](images/010.png)
 
 * Tap on **Upload**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/011.png)
+![alt text](images/011.png)
 
 * Find and select the files you want to upload and tap on **Open**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/012.png)
+![alt text](images/012.png)
 
 * Files uploaded to **OSH-APE** folder
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/013.png)
+![alt text](images/013.png)
 
 ### Uploading Soft Copies Without Downloading
 
 * Open your Gmail app in your phone and find the email where your APE results are attached and open the email
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/014.png)
+![alt text](images/014.png)
 
 * Tap on the **Google Drive icon**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/015.png)
+![alt text](images/015.png)
 
 * Tap on **Organise**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/016.png)
+![alt text](images/016.png)
 
 * Tap on **Back Arrow**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/017.png)
+![alt text](images/017.png)
 
 * Tap on **Starred**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/018.png)
+![alt text](images/018.png)
 
 * Tap on **OSH-APE**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/019.png)
+![alt text](images/019.png)
 
 * Tap on **SELECT**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/020.png)
+![alt text](images/020.png)
 
 * Files uploaded to **OSH-APE** folder
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/021.png)
+![alt text](images/021.png)
 
 ### Uploading Hard Copies
 
 * Icon in home screen to your OSH-APE folder
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/022.png)
+![alt text](images/022.png)
 
 * Tap the **+ button**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/023.png)
+![alt text](images/023.png)
 
 * Tap on **Scan**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/024.png)
+![alt text](images/024.png)
 
 * Point the camera at the document you want to scan (make sure the background is darker than the document) then press the **circle button** as if taking a picture
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/025.png)
+![alt text](images/025.png)
 
 * Tap on **OK**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/026.png)
+![alt text](images/026.png)
 
 * Tap on the **+** to add another page to the scanned document
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/027.png)
+![alt text](images/027.png)
 
 * Point the camera at the page you want to scan and add (make sure the background is darker than the document) then press the **circle button** as if taking a picture. Do the same for additional pages.
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/028.png)
+![alt text](images/028.png)
 
 * Tap on **OK**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/029.png)
+![alt text](images/029.png)
 
 * Tap on **the check** to upload the document
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/030.png)
+![alt text](images/030.png)
 
 * The uploaded scanned document
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/031.png)
+![alt text](images/031.png)
 
 ***
 ## Uploading in your desktop
@@ -155,20 +155,20 @@
 
 * Tap on the link in your **OSH email**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/032.png)
+![alt text](images/032.png)
 
 * Tap on the **New** button
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/033.png)
+![alt text](images/033.png)
 
 * Tap on the **File upload** option on the drop down menu
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/034.png)
+![alt text](images/034.png)
 
 * Select **all the files** you want to upload and tap on the **Open button**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/035.png)
+![alt text](images/035.png)
 
 * Uploaded documents
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/036.png)
+![alt text](images/036.png)
