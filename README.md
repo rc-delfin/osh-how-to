@@ -30,3 +30,6 @@
 * Icon in home screen to your OSH-APE folder
 
 ![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/006.png "OSH email")
+
+
+## Uploading in your smartphone
