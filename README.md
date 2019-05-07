@@ -148,3 +148,27 @@
 * The uploaded scanned document
 
 ![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/031.png)
+
+***
+## Uploading in your desktop
+***
+
+* Tap on the link in your **OSH email**
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/032.png)
+
+* Tap on the **New** button
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/033.png)
+
+* Tap on the **File upload** option on the drop down menu
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/034.png)
+
+* Select **all the files** you want to upload and tap on the **Open button**
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/035.png)
+
+* Uploaded documents
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/036.png)
