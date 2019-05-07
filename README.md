@@ -5,7 +5,9 @@
 * How to upload your APE results using your desktop
 
 ***
+
 ## How to make a shortcut in your smartphone to quickly access your APE folder
+
 ***
 
 * Tap on the link in your **OSH email**
@@ -29,12 +31,14 @@
 
 ![alt text](images/005.png)
 
-* Icon in home screen to your OSH-APE folder
+* The OSH-APE shortcut is created as an icon in your home screen. Tapping it will direct your Google Drive directly to your OSH-APE folder
 
 ![alt text](images/006.png)
 
 ***
+
 ## Uploading in your smartphone
+
 ***
 
 ### 2 Ways to Upload in Your Smartphone
@@ -52,10 +56,9 @@
 
 ![alt text](images/008.png)
 
-* Icon in home screen to your OSH-APE folder
+* Tap the OSH-APE shortcut in your home screen. Your Google Drive will open to your OSH-APE folder location.
 
 ![alt text](images/009.png)
-
 
 * Tap the **+ button**
 
@@ -150,7 +153,9 @@
 ![alt text](images/031.png)
 
 ***
+
 ## Uploading in your desktop
+
 ***
 
 * Tap on the link in your **OSH email**
