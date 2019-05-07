@@ -42,7 +42,7 @@
 * Uploading soft copies (PDFs) with and without downloading
 * Uploading hard copies (Printouts)
 
-#### Uploading Soft Copies With Downloading
+### Uploading Soft Copies With Downloading
 
 * Open your Gmail app in your phone and find the email where your APE results are attached and open the email
 
