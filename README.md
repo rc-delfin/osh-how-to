@@ -61,3 +61,14 @@
 
 ![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/010.png)
 
+* Tap on **Upload**
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/011.png)
+
+* Find and select the files you want to upload and tap on **Open**
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/012.png)
+
+* Files uploaded to **OSH-APE** folder
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/013.png)
