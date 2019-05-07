@@ -10,28 +10,28 @@
 
 * Tap on the link in your **OSH email**
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/osh%20email.png "OSH email")
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/osh%20email.png)
 
 * Tap on the three vertical dots at the upper right corner of the screen
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/002.png "OSH email")
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/002.png)
 
 * Tap on the **Add to Starred** option in the menu that appears, then
 * Tap on the **Add to Home screen** option
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/003.png "OSH email")
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/003.png)
 
 * Tap on **Add** in the following dialog
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/004.png "OSH email")
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/004.png)
 
 * A message will appear showing the operation was successful
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/005.png "OSH email")
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/005.png)
 
 * Icon in home screen to your OSH-APE folder
 
-![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/006.png "OSH email")
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/006.png)
 
 ***
 ## Uploading in your smartphone
@@ -48,3 +48,6 @@
 
 ![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/007.png)
 
+* Tap on the **Download icon** for all files you want to download
+
+![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/008.png)
