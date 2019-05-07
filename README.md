@@ -4,7 +4,9 @@
 * How to upload your APE results using your smartphone
 * How to upload your APE results using your desktop
 
+***
 ## How to make a shortcut in your smartphone to quickly access your APE folder
+***
 
 * Tap on the link in your **OSH email**
 
@@ -31,5 +33,6 @@
 
 ![alt text](https://github.com/rc-delfin/osh-how-to/blob/master/006.png "OSH email")
 
-
+***
 ## Uploading in your smartphone
+***
