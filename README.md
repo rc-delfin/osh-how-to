@@ -1,10 +1,16 @@
 # How to upload your Annual Physical Exam (APE) results to your OSH-APE folder
 
-A [link](#uploading-in-your-smartphone) to jump towards target header
+## Contents
 
-* How to make a shortcut to quickly access your APE folder
-* How to upload your APE results using your smartphone
-* How to upload your APE results using your desktop
+[How to make a shortcut in your smartphone to quickly access your APE folder](#how-to-make-a-shortcut-in-your-smartphone-to-quickly-access-your-ape-folder)
+
+[Uploading in your smartphone](#uploading-in-your-smartphone)
+* [Uploading Soft Copies With Downloading](#uploading-soft-copies-with-downloading)
+* [Uploading Soft Copies Without Downloading](#uploading-soft-copies-without-downloading)
+* [Uploading Hard Copies](#uploading-hard-copies)
+
+[Uploading in your desktop](#uploading-in-your-desktop)
+
 
 ***
 
