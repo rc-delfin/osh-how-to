@@ -59,7 +59,7 @@
 ![alt text](images/005.png) -->
 
 
-| ![alt text](images/006.png =100x200px) | * The OSH-APE shortcut is created as an icon in your home screen. Tapping it will direct your Google Drive directly to your OSH-APE folder |
+| ![alt text](images/006.png) | * The OSH-APE shortcut is created as an icon in your home screen. Tapping it will direct your Google Drive directly to your OSH-APE folder |
 |------|------|
 
 <!-- * The OSH-APE shortcut is created as an icon in your home screen. Tapping it will direct your Google Drive directly to your OSH-APE folder
