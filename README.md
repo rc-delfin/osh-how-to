@@ -34,8 +34,7 @@
 ![alt text](images/002.png) -->
 
 
-| ![alt text](images/003.png) | * Tap on the **Add to Starred** option in the menu that appears, then
-* Tap on the **Add to Home screen** option |
+| ![alt text](images/003.png) | * Tap on the **Add to Starred** option in the menu that appears, then tap on the **Add to Home screen** option |
 |------|------|
 
 <!-- * Tap on the **Add to Starred** option in the menu that appears, then
