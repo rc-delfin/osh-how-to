@@ -2,17 +2,17 @@
 
 ## **Contents**
 
-[How to make a shortcut in your smartphone to quickly access your APE folder](https://rc-delfin.github.io/osh-how-to/#how-to-make-a-shortcut-in-your-smartphone-to-quickly-access-your-ape-folder)
+[How to make a shortcut in your smartphone to quickly access your APE folder](#how-to-make-a-shortcut-in-your-smartphone-to-quickly-access-your-ape-folder)
 
-[Uploading in your smartphone](https://rc-delfin.github.io/osh-how-to/#uploading-in-your-smartphone)
+[Uploading in your smartphone](#uploading-in-your-smartphone)
 
-* [Uploading Soft Copies With Downloading](https://rc-delfin.github.io/osh-how-to/#uploading-soft-copies-with-downloading)
+* [Uploading Soft Copies With Downloading](#uploading-soft-copies-with-downloading)
 
-* [Uploading Soft Copies Without Downloading](https://rc-delfin.github.io/osh-how-to/#uploading-soft-copies-without-downloading)
+* [Uploading Soft Copies Without Downloading](#uploading-soft-copies-without-downloading)
 
-* [Uploading Hard Copies](https://rc-delfin.github.io/osh-how-to/#uploading-hard-copies)
+* [Uploading Hard Copies](#uploading-hard-copies)
 
-[Uploading in your desktop](https://rc-delfin.github.io/osh-how-to/#uploading-in-your-desktop)
+[Uploading in your desktop](#uploading-in-your-desktop)
 
 * * *
 
@@ -24,15 +24,15 @@
 
 * Tap on the link in your OSH email
 
-![image alt text](image_0.png)
+![image alt text](images/osh_email.png)
 
 <table>
   <tr>
-    <td></td>
+    <td>![alt text](images/002.png)</td>
     <td>Tap on the three vertical dots at the upper right corner of the screen</td>
   </tr>
   <tr>
-    <td></td>
+    <td>![alt text](images/003.png)</td>
     <td>Tap on the Add to Starred option in the menu that appears, then
 Tap on the Add to Home screen option</td>
   </tr>
