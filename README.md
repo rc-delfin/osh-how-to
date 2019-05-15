@@ -18,53 +18,30 @@
 
 ***
 
-| ![alt text](images/osh_email.png) | * Tap on the link in your **OSH email** |
-|------|------|
+* Tap on the link in your **OSH email**
 
-<!-- * Tap on the link in your **OSH email**
+![alt text](images/osh_email.png)
 
-![alt text](images/osh_email.png) -->
+* Tap on the three vertical dots at the upper right corner of the screen
 
+![alt text](images/002.png)
 
-| ![alt text](images/002.png) | * Tap on the three vertical dots at the upper right corner of the screen |
-|------|------|
-
-<!-- * Tap on the three vertical dots at the upper right corner of the screen
-
-![alt text](images/002.png) -->
-
-
-| ![alt text](images/003.png) | * Tap on the **Add to Starred** option in the menu that appears, then tap on the **Add to Home screen** option |
-|------|------|
-
-<!-- * Tap on the **Add to Starred** option in the menu that appears, then
+* Tap on the **Add to Starred** option in the menu that appears, then
 * Tap on the **Add to Home screen** option
 
-![alt text](images/003.png) -->
+![alt text](images/003.png)
 
+* Tap on **Add** in the following dialog
 
-| ![alt text](images/004.png) | * Tap on **Add** in the following dialog |
-|------|------|
+![alt text](images/004.png)
 
-<!-- * Tap on **Add** in the following dialog
+* A message will appear showing the operation was successful
 
-![alt text](images/004.png) -->
+![alt text](images/005.png)
 
+* The OSH-APE shortcut is created as an icon in your home screen. Tapping it will direct your Google Drive directly to your OSH-APE folder
 
-| ![alt text](images/005.png) | * A message will appear showing the operation was successful |
-|------|------|
-
-<!-- * A message will appear showing the operation was successful
-
-![alt text](images/005.png) -->
-
-
-| ![alt text](images/006.png) | * The OSH-APE shortcut is created as an icon in your home screen. Tapping it will direct your Google Drive directly to your OSH-APE folder |
-|------|------|
-
-<!-- * The OSH-APE shortcut is created as an icon in your home screen. Tapping it will direct your Google Drive directly to your OSH-APE folder
-
-![alt text](images/006.png) -->
+![alt text](images/006.png)
 
 ***
 
