@@ -17,8 +17,8 @@
 * * *
 
 
-|---|---|
 | ![alt text](images/osh_email.png) | * Tap on the link in your **OSH email** |
+|------|------|
 
 
 
