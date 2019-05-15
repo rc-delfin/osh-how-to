@@ -17,6 +17,11 @@
 * * *
 
 
+|---|---|
+| ![alt text](images/osh_email.png) | * Tap on the link in your **OSH email** |
+
+
+
 ## **How to make a shortcut in your smartphone to quickly access your APE folder**
 
 * * *
