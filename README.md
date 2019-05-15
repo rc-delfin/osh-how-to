@@ -43,19 +43,28 @@
 ![alt text](images/003.png) -->
 
 
+| ![alt text](images/004.png) | * Tap on **Add** in the following dialog |
+|------|------|
+
+<!-- * Tap on **Add** in the following dialog
+
+![alt text](images/004.png) -->
 
 
-* Tap on **Add** in the following dialog
+| ![alt text](images/005.png) | * A message will appear showing the operation was successful |
+|------|------|
 
-![alt text](images/004.png)
+<!-- * A message will appear showing the operation was successful
 
-* A message will appear showing the operation was successful
+![alt text](images/005.png) -->
 
-![alt text](images/005.png)
 
-* The OSH-APE shortcut is created as an icon in your home screen. Tapping it will direct your Google Drive directly to your OSH-APE folder
+| ![alt text](images/006.png) | * The OSH-APE shortcut is created as an icon in your home screen. Tapping it will direct your Google Drive directly to your OSH-APE folder |
+|------|------|
 
-![alt text](images/006.png)
+<!-- * The OSH-APE shortcut is created as an icon in your home screen. Tapping it will direct your Google Drive directly to your OSH-APE folder
+
+![alt text](images/006.png) -->
 
 ***
 
